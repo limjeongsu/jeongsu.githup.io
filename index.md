@@ -1,17 +1,11 @@
  <!DOCTYPE html>
 <html>
 <head>
-<title>introduce.nfa</title>
-<style>
-body{background-color:rgba(0, 93, 255, 0.4)}
-table{border-collapse: collapse; width:100%; height:10%}
-td, th {
-  border: 2px solid #dddddd;
-  text-align: center;
-  padding: 20px;
-  width:100px;
-  height:50px;
-}}
+ <title>introduce.nfa</title>
+ <style>
+ body{background-color:rgba(0, 93, 255, 0.4)}
+ table{border-collapse: collapse; width:100%; height:10%}
+  td, th {border: 2px solid #dddddd; text-align: center; padding: 20px; width:100px; height:50px;}
 </style>
 </head>
 <body>
