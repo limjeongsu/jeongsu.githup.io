@@ -1,7 +1,9 @@
  <!DOCTYPE html>
 <html>
 <head>
- <title>introduce.nfa</title>
+ <title>
+  introduce.nfa
+ </title>
  <style>
  body{background-color:rgba(0, 93, 255, 0.4)}
  table{border-collapse: collapse; width:100%; height:10%}
